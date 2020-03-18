@@ -1,0 +1,71 @@
+body{
+	background-color:#a1b2c3;
+}
+
+p {
+    font: 14px Arial;
+    
+  }
+.cienki{
+	font style: italic;
+	text-align: left;
+	
+}
+.wysrodkowany {
+	text-align: center;
+    color: red;
+}
+  h1 {
+	  font: 40px Segoe Script;
+	  color: #23aa4e;
+	  text-align: center;
+  }
+  
+  h2 {
+	  font: 23px Segoe Script;
+	  color: red;
+	  text-align: center;
+  }
+ h3 {
+	  font: 23px Segoe Script;
+	  color: gray;
+	  text-align: center;
+  }
+.gora
+{
+	width: 100%;
+     background-color: silver;
+     height: 90px;
+	
+}
+  
+.lewa
+{
+	width: 27%;
+     background-color: white;
+     height: 745px;
+	 float: left;
+
+	
+}
+.srodek
+{
+	width: 71%;
+     background-color: white;
+	 height: 720px;
+	float: left;
+	padding-top: 25px;
+	padding-right: 24px
+}
+.caly
+{
+	width: 1200px;
+	
+}
+.stopka
+{
+	width: 100%;
+     background-color: silver;
+     height: 90px;
+	float: left;
+}
